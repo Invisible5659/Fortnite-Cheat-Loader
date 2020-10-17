@@ -13,7 +13,7 @@ Highest time: 47 mins
 | 14.30   | :white_check_mark:  |
 | 14.20   | :white_check_mark:  |
 | 14.10+   | :white_check_mark:  |
-|Win10-Versions | Supported |
+|Win10-Versions |
 | 1909 | :white_check_mark: |
 | 2004|| :white_check_mark: |
 | 2009| :x: |
